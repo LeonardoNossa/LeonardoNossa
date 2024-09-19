@@ -10,8 +10,7 @@ I'm a Master student specializing in Bioinformatics. With a background in Biolog
 
 ## 📚 Recent Projects
 
-- **FM-index**: Python program that take as input a FASTA sequence and permit to use backward search to search a pattern.
-- **CompressNet**: R package that take a PPI network and compress it thanks to some parameters.
+- **Bioinformatics for computational genomics's projects**: https://github.com/users/LeonardoNossa/projects/2/views/1
 
 ## 🌐 Contact and Social
 
