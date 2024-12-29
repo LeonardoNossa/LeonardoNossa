@@ -6,7 +6,7 @@ I'm a Master student specializing in Bioinformatics. With a background in Biolog
 
 ## 🔧 Tools and Technologies
 
-- **Programming Languages**: Python, R, Shell
+- **Programming Languages**: R,Python, Shell
 
 ## 📚 Recent Projects
 
