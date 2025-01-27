@@ -17,5 +17,6 @@ I'm a Master student specializing in Bioinformatics. With a background in Biolog
 - **Twitter**: https://x.com/Leonardonossa5
 - **Email**: Leonardo.nossa@studenti.unimi.it
 - **Email**: Leonardo.nossa@mail.polimi.it
+- **Email**: Leonardo.nossa@icloud.com
 
 
