@@ -3,9 +3,12 @@
 ## 🌟 About Me
 
 Bachelor degree: **Biology**, University of Milan
+
 Thesis: "Bioniformatics and biology data science"
 
+
 Master degree: **Bioinformatics for Computational Genomics**, University of Milan and Politecnico of Milan
+
 Thesis intership at **Human Technopole** at **Soskic Lab**
 
 
